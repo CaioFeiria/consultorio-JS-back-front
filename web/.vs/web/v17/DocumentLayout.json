@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|c:\\users\\dell\\desktop\\wep-api finalizado\\web-api\\web\\web-api\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|solutionrelative:web-api\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|solutionrelative:web-api\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\repositories\\sqlserver\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|solutionrelative:web-api\\repositories\\sqlserver\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\validations\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|solutionrelative:web-api\\validations\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\controllers\\medicamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|solutionrelative:web-api\\controllers\\medicamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\configurations\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|solutionrelative:web-api\\configurations\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47054ACC-F8D2-4E89-BA31-452CD7B03E75}|web-api\\web-api.csproj|solutionrelative:web-api\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "web-api\\Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Models\\Medico.cs",
+              "RelativeToolTip": "web-api\\Models\\Medico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:05:17.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Models\\Medicamento.cs",
+              "RelativeDocumentMoniker": "web-api\\Models\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Models\\Medicamento.cs",
+              "RelativeToolTip": "web-api\\Models\\Medicamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:06:40.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Repositories\\SQLServer\\Medicamento.cs",
+              "RelativeDocumentMoniker": "web-api\\Repositories\\SQLServer\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Repositories\\SQLServer\\Medicamento.cs",
+              "RelativeToolTip": "web-api\\Repositories\\SQLServer\\Medicamento.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:20:38.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Validations\\Medicamento.cs",
+              "RelativeDocumentMoniker": "web-api\\Validations\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Validations\\Medicamento.cs",
+              "RelativeToolTip": "web-api\\Validations\\Medicamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:20:32.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Controllers\\MedicamentosController.cs",
+              "RelativeDocumentMoniker": "web-api\\Controllers\\MedicamentosController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Controllers\\MedicamentosController.cs",
+              "RelativeToolTip": "web-api\\Controllers\\MedicamentosController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:20:02.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cache.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Configurations\\Cache.cs",
+              "RelativeDocumentMoniker": "web-api\\Configurations\\Cache.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Configurations\\Cache.cs",
+              "RelativeToolTip": "web-api\\Configurations\\Cache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:19:59.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "web-api\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\wep-api finalizado\\web-api\\web\\web-api\\Models\\Paciente.cs",
+              "RelativeToolTip": "web-api\\Models\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:43:12.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

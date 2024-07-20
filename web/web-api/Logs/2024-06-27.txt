@@ -1,0 +1,8 @@
+Data:2024-06-27 08:18:53
+Mensagem:Conversão especificada não é válida.
+StackTrace:   em web_api.Repositories.SQLServer.Medico.<Insert>d__9.MoveNext() na C:\Users\dell\Desktop\wep-api finalizado\web-api\web\web-api\Repositories\SQLServer\Medico.cs:linha 163
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   em web_api.Controllers.MedicosController.<Post>d__6.MoveNext() na C:\Users\dell\Desktop\wep-api finalizado\web-api\web\web-api\Controllers\MedicosController.cs:linha 106
